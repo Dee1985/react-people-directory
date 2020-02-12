@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://react-people-directory.netlify.com/
 
 ## Images
-
+![react-people-directory]()
 ## Installation
 No installation required- please visit deployed site above
 ## Usage
