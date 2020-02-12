@@ -17,6 +17,8 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 ## Contributing
 Assistance provided by trilogy tutor Tom McCarthy and peer Ryan Ellison
 
+random user generator: https://randomuser.me/
+
 ## Challenges
 First homework assignment using React. 
 ## License
