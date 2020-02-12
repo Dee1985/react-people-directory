@@ -91,7 +91,7 @@ function App() {
         <tr>
           <td>{singlePerson.fname}</td>
           <td>{singlePerson.lname}</td>
-          <td>{singlePerson.color}</td>
+          <td>{singlePerson.gender}</td>
         </tr>
       );
       rows.push(html);
@@ -146,7 +146,7 @@ function App() {
           <tr>
             <th>First Name</th>
             <th>Last Name</th>
-            <th>Color</th>
+            <th>Gender</th>
           </tr>
         </thead>
 
